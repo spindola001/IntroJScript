@@ -1,0 +1,9 @@
+#myImage{
+	position: absolute;
+	top: 100px;
+	left: 30%;
+	width: 600px;
+}
+.fundo{
+	background-color: #9370DB;
+}
